@@ -1,0 +1,4 @@
+# py-test extension
+comment = 'py_test datatype'
+default_version = '0.0.1'
+relocatable = true
